@@ -4,7 +4,7 @@ import os
 import tkinter as tk 
 from tkinter import filedialog
 
-client = Together(api_key = "8fc24c8984e433c5ed5764cf3ecd7d6bf428524042f2f01708b935572ae19db5")
+client = Together(api_key = "")
 
 # Open the file to get picture
 def select_image():
